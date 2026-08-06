@@ -9,7 +9,7 @@ I'm an aspiring Software Developer who approaches engineering with a researcher'
 - 💬 Ask me about Java, Spring Boot, REST API design, or how machine learning is used in cancer diagnostics
 - ⚡ Fun fact: My research code (Python) came before my first Java project — I learned backend engineering *after* I'd already published a paper
 
-📫 Let's connect: [LinkedIn](your-link) · [Portfolio](your-link)
+📫 Let's connect: [Portfolio](https://yadav-rahul-sc.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yadav-rahul-suresh-chandra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yrahulsc@gmail.com) 

@@ -1,6 +1,15 @@
 # 💫 About Me:
-Backend/Java projects involving REST APIs, Spring Boot, and clean system design<br><br>Real-world CI/CD practices<br><br>Docker, Docker Compose, and GitHub Actions for CI/CD pipelines<br><br>Java, Spring Boot, REST APIs, or applied ML in healthcare (radiomics/medical imaging)<br><br>I co-authored a published ML research paper on prostate cancer prediction using MRI data — before writing my first production API<br><br>
+### 👋 Hi, I'm Rahul
 
+I'm an aspiring Software Developer who approaches engineering with a researcher's discipline — before writing my first production API, I co-authored a published ML paper predicting cancer aggressiveness from MRI scans. That habit of testing assumptions rigorously now shows up in how I build backend systems.
+
+- 🔭 Currently building a full-stack e-commerce app (Spring Boot + React), Dockerized and shipped through a CI/CD pipeline I set up myself with GitHub Actions
+- 🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not just using tools, but understanding *why* they're built the way they are
+- 🎓 M.Tech in Computer Science | Published researcher in applied ML (radiomics, medical imaging)
+- 💬 Ask me about Java, Spring Boot, REST API design, or how machine learning is used in cancer diagnostics
+- ⚡ Fun fact: My research code (Python) came before my first Java project — I learned backend engineering *after* I'd already published a paper
+
+📫 Let's connect: [LinkedIn](your-link) · [Portfolio](your-link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yadav-rahul-suresh-chandra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yrahulsc@gmail.com) 

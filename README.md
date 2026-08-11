@@ -7,7 +7,6 @@ I'm an aspiring Software Developer who approaches engineering with a researcher'
 - 🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not just using tools, but understanding *why* they're built the way they are
 - 🎓 M.Tech in Computer Science | Published researcher in applied ML (radiomics, medical imaging)
 - 💬 Ask me about Java, Spring Boot, REST API design, or how machine learning is used in cancer diagnostics
-- ⚡ Fun fact: My research code (Python) came before my first Java project — I learned backend engineering *after* I'd already published a paper
 
 📫 Let's connect: [Portfolio](https://yadav-rahul-sc.vercel.app/)
 

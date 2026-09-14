@@ -74,8 +74,5 @@ Actions<br>🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not j
   <img src="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake.svg" width="90%" alt="GitHub Contribution Snake">
 </picture>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/master/github-metrics.svg" alt="GitHub Metrics" width="100%">
-</div>
 </div>
 <br>

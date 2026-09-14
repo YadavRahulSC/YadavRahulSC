@@ -73,9 +73,9 @@ Actions<br>🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not j
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake.svg" width="90%" alt="GitHub Contribution Snake">
 </picture>
-</div>
-<br>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
-<br>
+  <img src="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/master/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </div>
+</div>
+<br>

@@ -1,6 +1,8 @@
 <div align="left">
 
-<img align="right" src="./billa.png" width="250" hspace="5" alt="Billa">
+<div align="right" style="margin-left: 20px;">
+  <img src="./billa.png" width="250" alt="Billa">
+</div>
 
 <h1>Hey there, I'm Yadav Rahul Suresh Chandra 👋</h1>
 
@@ -33,8 +35,6 @@
 <br clear="both">
 
 </div>
-
----
 
 <table align="center" width="100%">
 <tr>

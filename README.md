@@ -50,8 +50,8 @@ I'm **Yadav Rahul Suresh Chandra** an Aspiring Software Developer who approaches
 I co-authored a published ML paper predicting cancer aggressiveness from MRI scans. That habit of testing assumptions rigorously now shows up in how I build backend
 systems.<br><br>🔭 Currently building a full-stack e-commerce app (Spring Boot + React), Dockerized and shipped through a CI/CD pipeline I set up myself with GitHub
 Actions<br>🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not just using tools, but understanding why they're built the way they are<br>🎓 M.Tech in Co
--mputer Science | Published researcher in applied ML (radiomics, medical imaging)<br>💬 Ask me about Java, Spring Boot, REST API design, or how machine learning is u
--sed in cancer diagnostics<br>
+mputer Science | Published researcher in applied ML (radiomics, medical imaging)<br>💬 Ask me about Java, Spring Boot, REST API design, or how machine learning is u
+sed in cancer diagnostics<br>
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -71,7 +71,7 @@ Actions<br>🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not j
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake.svg" width="90%" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake">
 </picture>
 
 </div>

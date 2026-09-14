@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="./billa.png" width="250" hspace="15" alt="Billa">
+<img align="right" src="./billa.png" width="250" hspace="5" alt="Billa">
 
 <h1>Hey there, I'm Yadav Rahul Suresh Chandra 👋</h1>
 
@@ -74,5 +74,4 @@ Actions<br>🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not j
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
 <br>
-<sub><b>© Neraj Lal</b> · Full Stack Developer · Shopify · AI · SaaS</sub>
 </div>

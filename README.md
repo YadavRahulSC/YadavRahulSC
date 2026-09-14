@@ -1,14 +1,18 @@
 <div align="left">
 
-<div align="right" style="margin-left: 20px;">
-  <img src="./billa.png" width="250" alt="Billa">
-</div>
-
-<h1>Hey there, I'm Yadav Rahul Suresh Chandra 👋</h1>
-
-<a href="https://github.com/YadavRahulSC">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Aspiring+Software+Developer" alt="Typing SVG">
-</a>
+<table width="100%" border="0">
+  <tr>
+    <td width="70%" valign="middle">
+      <h1>Hey there, I'm Yadav Rahul Suresh Chandra 👋</h1>
+      <a href="https://github.com/YadavRahulSC">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Aspiring+Software+Developer" alt="Typing SVG">
+      </a>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <img src="./billa.png" width="220" alt="Billa">
+    </td>
+  </tr>
+</table>
 
 <p>
   <a href="https://yadav-rahul-sc.vercel.app/">

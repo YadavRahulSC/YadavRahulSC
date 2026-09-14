@@ -22,12 +22,12 @@
 
 <p>
   <a href="https://github.com/YadavRahulSC?tab=followers">
-    <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/YadavRahulSC?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
   </a>
   <a href="https://github.com/YadavRahulSC?tab=repositories">
-    <img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/YadavRahulSC?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=YadavRahulSCl&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
 </p>
 
 <br clear="both">
@@ -52,7 +52,7 @@ Actions<br>🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not j
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=java,python,vercel,spring,apache,maven,nginx,mongodb, postgresql,postman,git,swagger,numpy,pandas,scikitlearn,githubactions,matplotlib,mysql,docker,git,github&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=java,python,vercel,spring,apache,maven,nginx,mongodb,postgresql,postman,git,swagger,numpy,pandas,scikitlearn,githubactions,matplotlib,mysql,docker,git,github&perline=7&theme=dark" width="100%" alt="Tech stack">
 
 </td>
 </tr>

@@ -21,7 +21,7 @@
   <a href="https://github.com/YadavRahulSC">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/YadavRahulSC/">
+  <a href="https://www.linkedin.com/in/yadav-rahul-suresh-chandra/">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
   </a>
 </p>

@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: nerajlal
           filename: profile/metrics.svg
-          committer_branch: main
+          committer_branch: master
           committer_message: "chore: update GitHub metrics"
           template: classic
           base: header, activity, community, repositories, metadata

@@ -56,7 +56,7 @@ Actions<br>🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not j
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=java,python,vercel,spring,apache,maven,nginx,mongodb,postgresql,postman,git,swagger,numpy,pandas,scikitlearn,githubactions,matplotlib,mysql,docker,git,github&perline=7&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=java,python,vercel,spring,apache,maven,nginx,mongodb,postgresql,postman,git,swagger,numpy,pandas,scikitlearn,githubactions,matplotlib,mysql,docker,git,github&perline=4&theme=dark" width="100%" alt="Tech stack">
 
 </td>
 </tr>
@@ -69,9 +69,9 @@ Actions<br>🌱 Deepening my grip on Docker, Docker Compose, and CI/CD — not j
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/YadavRahulSC/YadavRahulSC/output/github-snake.svg" width="90%" alt="GitHub Contribution Snake">
 </picture>
 </div>
 <br>

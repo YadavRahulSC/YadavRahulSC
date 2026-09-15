@@ -9,7 +9,7 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle">
-      <img src="./billa.png" width="220" alt="Billa">
+      <img src="dev rahul.png" width="220" alt="dev">
     </td>
   </tr>
 </table>

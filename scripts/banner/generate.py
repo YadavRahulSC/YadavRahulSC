@@ -18,7 +18,7 @@ from scipy.spatial.distance import cdist
 
 
 ROOT = Path(__file__).resolve().parents[2]
-SOURCE = ROOT / "assets/source/billa92-github.png"
+SOURCE = ROOT / "assets/source/mrr.png"
 ASSETS = ROOT / "assets"
 LOGOS = Path(__file__).resolve().parent / "logos"
 DATA = Path(__file__).resolve().parent / "data"
@@ -30,21 +30,21 @@ TRAVELLER_COUNT = 900
 SEED = 314159
 
 ROWS = [
-    ("Subject", "Emmi"),
-    ("Role", "Blockchain Engineer · Tech Lead"),
-    ("Origin", "Bolivia"),
-    ("Education", "Community · LATAM"),
-    ("Status", "Building + Learning + Shipping"),
-    ("ToolChain", "Sublime · Cursor · Git"),
-    ("Core.Lang", "TypeScript · Rust · Solidity"),
-    ("Core.Frontend", "React · Next.js · Three.js · Tailwind"),
-    ("Core.Backend", "Node · Python"),
-    ("Core.Database", "Postgres · Supabase"),
-    ("Core.Infra", "Vercel · Docker · AWS"),
+    ("Subject", "Rahul"),
+    ("Role", "Java Backend Developer · Fresher"),
+    ("Origin", "India"),
+    ("Education", "B.Tech · M.Tech"),
+    ("Status", "Building + Learning + Deploying"),
+    ("ToolChain", "VS code · Intelli J idea · Git · Docker"),
+    ("Core.Lang", "Core Java · Python"),
+    ("Core.Frontend", "React · Typescript"),
+    ("Core.Backend", "SpringBoot"),
+    ("Core.Database", "Postgres · Mongodb"),
+    ("Core.Infra", "Vercel · Docker"),
     ("Grid.Mail", "—"),
-    ("Grid.LinkedIn", "/in/emmi-aguilar-rivero"),
-    ("Grid.GitHub", "emmi-lili"),
-    ("Grid.X", "@emmcriptada"),
+    ("Grid.LinkedIn", "https://www.linkedin.com/in/yadav-rahul-suresh-chandra/"),
+    ("Grid.GitHub", "https://github.com/YadavRahulSC"),
+    ("Grid.X", "https://x.com/YadavRahulSC"),
 ]
 
 THEMES = {

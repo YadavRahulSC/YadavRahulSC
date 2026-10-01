@@ -41,7 +41,7 @@ sed in cancer diagnostics<br>
 ## my perfect stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,vercel,spring,apache,maven,nginx,mongodb,postgresql,postman,swagger,numpy,pandas,scikitlearn,githubactions,matplotlib,mysql,docker,git,github&perline=5&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,vercel,spring,apache,maven,nginx,mongodb,postgresql,postman,swagger,numpy,pandas,scikitlearn,githubactions,matplotlib,mysql,docker,git,github&perline=5&theme=dark&v=2" alt="tech stack" />
 </p>
 
 </div>

@@ -10,7 +10,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/YadavRahulSC">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Java+Backend+Developer" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=500&lines=Java+Backend+Developer" alt="typing banner">
 </a>
 
 <br>

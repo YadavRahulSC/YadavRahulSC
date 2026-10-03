@@ -45,16 +45,16 @@ jobs:
         run: |
           curl -fsSL --retry 3 --retry-delay 5 \
             "$GH_ASCII_URL/$HANDLE?theme=dark${COLS:+&cols=$COLS}" \
-            -o dark_mode.svg
+            -o Dark_2.svg
           curl -fsSL --retry 3 --retry-delay 5 \
             "$GH_ASCII_URL/$HANDLE?theme=light${COLS:+&cols=$COLS}" \
-            -o light_mode.svg
+            -o Light_2.svg
 
       - name: Commit only if the card changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dark_mode.svg light_mode.svg
+          git add Dark_2.svg Light_2.svg
           if git diff --cached --quiet; then
             echo "Card unchanged — nothing to commit."
           else

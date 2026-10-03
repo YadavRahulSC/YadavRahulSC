@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="YadavRahulSC's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="Dark_2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="Light_2.svg" />
+  <img alt="YadavRahulSC's GitHub profile" src="Dark_2.svg" />
 </picture>
 
 <br>

@@ -20,7 +20,7 @@
 <a href="https://yadav-rahul-sc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio"></a>&nbsp;&nbsp;
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YadavRahulSCl&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=YadavRahulSC&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
 
 </div>
 
